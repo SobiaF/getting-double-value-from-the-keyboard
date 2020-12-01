@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class VersatileBookShop {
-    public static void main(String arg[]) {
+    public static void main(String args[]) {
         Scanner keyboard = new Scanner(System.in);
         double amount;
 
